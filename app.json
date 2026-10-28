@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "nxs-gauteng",
+    "slug": "nxs-gauteng",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.nxs.gauteng"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "22cb94c7-339f-4655-9701-5dbd0616f312"
+      }
+    },
+    "owner": "kaylene",
+    "plugins": [
+      "expo-status-bar"
+    ]
+  }
+}

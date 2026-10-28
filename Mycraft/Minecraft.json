@@ -1,0 +1,11 @@
+{
+  "name": "Mycraft",
+  "slug": "mycraft",
+  "version": "1.0.0",
+  "android": {
+    "package": "com.nxs.mycraft",
+    "adaptiveIcon": {
+      "backgroundColor": "#2E7D32"
+    }
+  }
+}
